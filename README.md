@@ -1,4 +1,4 @@
-## Hi there 👋
+My name is [M.talha], and I am a [17]-year-old [web development] from [karachi]. I am currently studying/working at [the excellence model school], pursuing my interests and goals with dedication and enthusiasm.
 
 <!--
 **memon1317/Memon1317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
